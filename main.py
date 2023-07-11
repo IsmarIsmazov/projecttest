@@ -1,0 +1,2 @@
+class asamksl:
+    pass
